@@ -1,4 +1,4 @@
-function utopianTree(n) {
+/* function utopianTree(n) {
     // Write your code here
     let height = 0;
     for(let i = 0; i <= n.length; i++) {
@@ -16,4 +16,4 @@ function utopianTree(n) {
     return console.log(height);
 }
 
-utopianTree(5)
+utopianTree(5) */
